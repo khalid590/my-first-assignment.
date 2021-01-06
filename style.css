@@ -1,0 +1,123 @@
+body {
+  font-family: "Playfair Display", serif;
+}
+.home-section {
+  height: 500px;
+  padding-left: 2%;
+  margin-left: 5%;
+}
+.half-width {
+  width: 40%;
+  float: left;
+}
+.half-width img {
+  width: 100%;
+  margin-left: 20%;
+}
+#half-home {
+  margin-top: 10%;
+}
+#half-home h1 {
+  font-size: 40px;
+}
+.text-color {
+  color: orangered;
+}
+.color-button {
+  text-decoration: none;
+  background-color: orangered;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+p {
+  color: dimgray;
+}
+.about-section {
+  height: 500px;
+
+  margin-top: 10%;
+}
+.half-about {
+}
+#about-div {
+  margin-left: 10%;
+  margin-top: 8%;
+}
+#about-div h1 {
+  font-size: 40px;
+}
+#about-button {
+  margin-top: 5%;
+}
+.leatest-work {
+  height: 500px;
+  width: 100%;
+
+  margin-top: 10%;
+}
+.leatest-work h2 {
+  font-size: 40px;
+  text-align: center;
+}
+.leatest-color {
+  color: orangered;
+}
+.leatest-child {
+  height: 80%;
+  width: 90%;
+  margin: auto;
+}
+.child-work {
+  height: 100%;
+  width: 31%;
+  border-radius: 8px;
+  float: left;
+  margin-left: 1.5%;
+  background-color: rgb(240, 237, 237);
+  box-shadow: 5px 5px 10px gray;
+}
+.child-work img {
+  width: 100%;
+  height: 60%;
+}
+.child-work h3 {
+  font-size: 30px;
+}
+.section-last {
+  height: 350px;
+}
+
+.last-div {
+  width: 70%;
+  height: 70%;
+  background-image: url("image/Group_33094_1.png");
+  margin: auto;
+  position: relative;
+  top: 18%;
+  border-radius: 30px;
+  background-position: center;
+}
+
+.last-div h1 {
+  font-size: 30px;
+  line-height: 0px;
+  color: white;
+  float: left;
+  position: relative;
+  top: 37%;
+  left: 50px;
+}
+
+.section-last .link-button {
+  float: right;
+  position: relative;
+  top: 39%;
+}
+#remove {
+  text-decoration: none;
+  color: white;
+  background-color: orangered;
+  padding: 10px 20px;
+  margin-right: 40px;
+}
